@@ -1,0 +1,1294 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  font-size: 14px;
+  background: #1E1E1E;
+}
+			
+			#RootWrapperFrame1 {
+				min-height: 100vh;
+				background-color: rgb(30, 30, 30);
+				position: relative;
+			}
+			
+			#Vector2 {
+				width: 2px;
+				height: 4px;
+				object-fit: cover;
+				position: absolute;
+				left: 723px;
+				top: 103px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Rectangle184 {
+				width: 129px;
+				height: 32px;
+				box-shadow: -26px -26px 53px  rgba(51, 51, 51, 0.4),9px 9px 35px  rgba(0, 0, 0, 0.6);
+				background: linear-gradient(-45deg, black, rgb(36, 36, 36));
+				border: solid 1px undefined;
+				border-top-left-radius: 11px;
+				border-top-right-radius: 11px;
+				border-bottom-right-radius: 11px;
+				border-bottom-left-radius: 2px;
+				position: absolute;
+				left: 800px;
+				top: 174px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Rectangle185 {
+				width: 136px;
+				height: 46px;
+				box-shadow: -26px -26px 53px  rgba(51, 51, 51, 0.4),9px 9px 35px  rgba(0, 0, 0, 0.8);
+				background: linear-gradient(-45deg, black, rgb(36, 36, 36));
+				border: solid 1px undefined;
+				border-top-left-radius: 11px;
+				border-top-right-radius: 11px;
+				border-bottom-right-radius: 11px;
+				border-bottom-left-radius: 2px;
+				position: absolute;
+				left: 821px;
+				top: 252px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#GoodMorningMyLove {
+				color: rgb(149, 149, 149);
+				text-overflow: ellipsis;
+				font-size: 7px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				line-height: 14px;
+				text-align: left;
+				width: 116px;
+				min-height: 14px;
+				position: absolute;
+				left: 815px;
+				top: 179px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+				height: 14px;
+			}
+			
+			#LooksAbsolutelyAmazingThatSPerfect {
+				color: rgb(149, 149, 149);
+				text-overflow: ellipsis;
+				font-size: 7px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				line-height: 14px;
+				text-align: left;
+				width: 102px;
+				min-height: 28px;
+				position: absolute;
+				left: 836px;
+				top: 257px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+				height: 28px;
+			}
+			
+			#KLodBondoc {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 9px;
+				font-family: Poppins, sans-serif;
+				font-weight: 300;
+				text-align: left;
+				width: 151px;
+				min-height: 19px;
+				position: absolute;
+				left: 793px;
+				top: 147px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+				height: 19px;
+			}
+			
+			#IconColor {
+				object-fit: cover;
+				position: absolute;
+				left: 918px;
+				top: 123px;
+				right: 148px;
+				bottom: 528px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Message {
+				width: 136px;
+				height: 32px;
+				position: absolute;
+				left: 811px;
+				top: 213px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Rectangle184_0001 {
+				width: 136px;
+				height: 32px;
+				box-shadow: -26px -26px 53px  rgba(51, 51, 51, 0.4),9px 9px 35px  rgba(0, 0, 0, 0.6);
+				background: linear-gradient(-45deg, rgb(130, 108, 0), rgb(71, 57, 0));
+				border: solid 1px undefined;
+				border-top-left-radius: 11px;
+				border-top-right-radius: 11px;
+				border-bottom-right-radius: 2px;
+				border-bottom-left-radius: 11px;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+			}
+			
+			#Unlock {
+				width: 23px;
+				height: 23px;
+				object-fit: cover;
+				position: absolute;
+				left: 4px;
+				top: 4px;
+			}
+			
+			#RoundAvPlayArrow {
+				width: 11px;
+				height: 11px;
+				position: absolute;
+				left: 10px;
+				top: 11px;
+			}
+			
+			#RectangleCopy50 {
+				position: absolute;
+				left: 0px;
+				top: 0px;
+				right: 0px;
+				bottom: 0px;
+			}
+			
+			#IconColor_0001 {
+				width: 4px;
+				height: 5px;
+				position: absolute;
+				left: 4px;
+				top: 3px;
+				right: 2px;
+				bottom: 3px;
+			}
+			
+			#Rectangle204 {
+				width: 2px;
+				height: 12px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 36px;
+				top: 10px;
+			}
+			
+			#Rectangle209 {
+				width: 2px;
+				height: 12px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 54px;
+				top: 10px;
+			}
+			
+			#Rectangle221 {
+				width: 2px;
+				height: 12px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 96px;
+				top: 10px;
+			}
+			
+			#Rectangle214 {
+				width: 2px;
+				height: 12px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 75px;
+				top: 10px;
+			}
+			
+			#Rectangle222 {
+				width: 2px;
+				height: 12px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 117px;
+				top: 10px;
+			}
+			
+			#Rectangle205 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 40px;
+				top: 8px;
+			}
+			
+			#Rectangle210 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 57px;
+				top: 8px;
+			}
+			
+			#Rectangle223 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 100px;
+				top: 8px;
+			}
+			
+			#Rectangle215 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 78px;
+				top: 8px;
+			}
+			
+			#Rectangle224 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 121px;
+				top: 8px;
+			}
+			
+			#Rectangle206 {
+				width: 2px;
+				height: 9px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 43px;
+				top: 11px;
+			}
+			
+			#Rectangle211 {
+				width: 2px;
+				height: 9px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 61px;
+				top: 11px;
+			}
+			
+			#Rectangle225 {
+				width: 2px;
+				height: 9px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 103px;
+				top: 11px;
+			}
+			
+			#Rectangle218 {
+				width: 2px;
+				height: 9px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 85px;
+				top: 11px;
+			}
+			
+			#Rectangle216 {
+				width: 2px;
+				height: 9px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 82px;
+				top: 11px;
+			}
+			
+			#Rectangle207 {
+				width: 2px;
+				height: 23px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 47px;
+				top: 4px;
+			}
+			
+			#Rectangle212 {
+				width: 2px;
+				height: 23px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 64px;
+				top: 4px;
+			}
+			
+			#Rectangle228 {
+				width: 2px;
+				height: 23px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 107px;
+				top: 4px;
+			}
+			
+			#Rectangle219 {
+				width: 2px;
+				height: 23px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 89px;
+				top: 4px;
+			}
+			
+			#Rectangle208 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 50px;
+				top: 8px;
+			}
+			
+			#Rectangle217 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 71px;
+				top: 8px;
+			}
+			
+			#Rectangle230 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 114px;
+				top: 8px;
+			}
+			
+			#Rectangle213 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 68px;
+				top: 8px;
+			}
+			
+			#Rectangle231 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 110px;
+				top: 8px;
+			}
+			
+			#Rectangle220 {
+				width: 2px;
+				height: 16px;
+				background-color: black;
+				border-radius: 2px;
+				position: absolute;
+				left: 92px;
+				top: 8px;
+			}
+			
+			#NaN {
+				width: 162px;
+				height: 197px;
+				overflow: hidden;
+				background: linear-gradient(-45deg, black, rgb(36, 36, 36));
+				border: solid 1px undefined;
+				border-radius: 26px;
+				position: absolute;
+				box-shadow: -26px -26px 53px  rgba(23, 23, 23, 0.5),9px 9px 53px  rgba(0, 0, 0, 0.4);
+				left: 730px;
+				top: 443px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#_2019110911531 {
+				width: 265px;
+				height: 197px;
+				object-fit: cover;
+				position: absolute;
+				left: -43px;
+				top: -0px;
+			}
+			
+			#Vector17 {
+				width: 23px;
+				height: 85px;
+				object-fit: cover;
+				position: absolute;
+				left: 54px;
+				top: 37px;
+			}
+			
+			#Ellipse42 {
+				width: 4px;
+				height: 4px;
+				box-shadow: -4px -4px 18px  rgb(18, 18, 18),4px 4px 18px  black;
+				background: linear-gradient(-45deg, black, black);
+				border-radius: 4px / 4px;
+				position: absolute;
+				left: 75px;
+				top: 122px;
+			}
+			
+			#Rectangle184_0002 {
+				width: 129px;
+				height: 29px;
+				box-shadow: -5px -5px 14px  rgba(255, 255, 255, 0.1),5px 8px 35px  rgba(137, 117, 27, 0.2);
+				background: linear-gradient(90deg, rgb(254, 206, 3), rgb(235, 191, 2));
+				border-radius: 7px;
+				position: absolute;
+				left: 17px;
+				top: 147px;
+			}
+			
+			#Rectangle185_0001 {
+				width: 136px;
+				height: 36px;
+				border: solid 1px rgb(33, 33, 33);
+				border-radius: 10px;
+				position: absolute;
+				left: 13px;
+				top: 144px;
+			}
+			
+			#Ellipse51 {
+				width: 41px;
+				height: 41px;
+				background: radial-gradient(rgb(254, 207, 3), rgb(35, 35, 35));
+				border-radius: 41px / 41px;
+				position: absolute;
+				left: 32px;
+				top: 17px;
+				opacity: 0.2;
+				filter: blur(17.62px);
+			}
+			
+			#IconColor_0002 {
+				object-fit: cover;
+				position: absolute;
+				left: 47px;
+				top: 20px;
+				right: 101px;
+				bottom: 159px;
+			}
+			
+			#LetSStart {
+				color: black;
+				text-overflow: ellipsis;
+				font-size: 9px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 66px;
+				min-height: 13px;
+				position: absolute;
+				left: 60px;
+				top: 155px;
+				height: 13px;
+			}
+			
+			#Ellipse51_0001 {
+				width: 101px;
+				height: 101px;
+				background: radial-gradient(rgb(254, 207, 3), rgb(23, 23, 23));
+				border-radius: 101px / 101px;
+				position: absolute;
+				left: 643px;
+				top: 51px;
+				filter: blur(26.43px);
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Box {
+				width: 107px;
+				height: 107px;
+				position: absolute;
+				left: 626px;
+				top: 75px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#IconColor_0003 {
+				object-fit: cover;
+				position: absolute;
+				left: 674px;
+				top: 98px;
+				right: 376px;
+				bottom: 523px;
+				transform: rotate(-14deg);
+				transform-origin: top left;
+			}
+			
+			#NaN_0001 {
+				width: 179px;
+				height: 201px;
+				overflow: hidden;
+				background: linear-gradient(-45deg, black, rgb(36, 36, 36));
+				border: solid 1px black;
+				border-radius: 26px;
+				position: absolute;
+				box-shadow: -26px -26px 106px  rgba(23, 23, 23, 0.5),9px 9px 106px  rgba(0, 0, 0, 0.4);
+				left: 310px;
+				top: 442px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Rectangle8 {
+				width: 736px;
+				height: 900px;
+				background: linear-gradient(-225deg, rgb(30, 31, 29), rgb(26, 28, 24));
+				position: absolute;
+				left: -254px;
+				top: -667px;
+				transform: rotate(-345deg);
+				transform-origin: top left;
+			}
+			
+			#_240300 {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 16px;
+				font-family: Poppins, sans-serif;
+				font-weight: 500;
+				text-align: left;
+				width: 151px;
+				min-height: 19px;
+				position: absolute;
+				left: 19px;
+				top: 16px;
+				height: 19px;
+			}
+			
+			#IconColor_0004 {
+				object-fit: cover;
+				position: absolute;
+				left: 98px;
+				top: 78px;
+				right: 72px;
+				bottom: 121px;
+			}
+			
+			#TotalBalance {
+				color: rgb(74, 74, 74);
+				text-overflow: ellipsis;
+				font-size: 7px;
+				font-family: Poppins, sans-serif;
+				font-weight: 300;
+				text-align: center;
+				width: 72px;
+				min-height: 11px;
+				position: absolute;
+				left: 19px;
+				top: 35px;
+				height: 11px;
+			}
+			
+			#Jan {
+				color: rgb(128, 128, 128);
+				text-overflow: ellipsis;
+				font-size: 5px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				line-height: 21px;
+				text-align: center;
+				width: 21px;
+				min-height: 21px;
+				position: absolute;
+				left: 14px;
+				top: 159px;
+				height: 21px;
+			}
+			
+			#Feb {
+				color: rgb(128, 128, 128);
+				text-overflow: ellipsis;
+				font-size: 5px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				line-height: 21px;
+				text-align: center;
+				width: 21px;
+				min-height: 21px;
+				position: absolute;
+				left: 39px;
+				top: 159px;
+				height: 21px;
+			}
+			
+			#Mar {
+				color: rgb(128, 128, 128);
+				text-overflow: ellipsis;
+				font-size: 5px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				line-height: 21px;
+				text-align: center;
+				width: 21px;
+				min-height: 21px;
+				position: absolute;
+				left: 63px;
+				top: 159px;
+				height: 21px;
+			}
+			
+			#Apr {
+				color: rgb(194, 162, 3);
+				text-overflow: ellipsis;
+				font-size: 5px;
+				font-family: Poppins, sans-serif;
+				font-weight: 600;
+				line-height: 21px;
+				text-align: center;
+				width: 21px;
+				min-height: 21px;
+				position: absolute;
+				left: 88px;
+				top: 159px;
+				height: 21px;
+			}
+			
+			#May {
+				color: rgb(128, 128, 128);
+				text-overflow: ellipsis;
+				font-size: 5px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				line-height: 21px;
+				text-align: center;
+				width: 21px;
+				min-height: 21px;
+				position: absolute;
+				left: 113px;
+				top: 159px;
+				height: 21px;
+			}
+			
+			#Jun {
+				color: rgb(128, 128, 128);
+				text-overflow: ellipsis;
+				font-size: 5px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				line-height: 21px;
+				text-align: center;
+				width: 21px;
+				min-height: 21px;
+				position: absolute;
+				left: 137px;
+				top: 159px;
+				height: 21px;
+			}
+			
+			#Vector9 {
+				width: 160px;
+				height: 53px;
+				object-fit: cover;
+				position: absolute;
+				left: 7px;
+				top: 108px;
+				filter: blur(4.4px);
+			}
+			
+			#Vector8 {
+				width: 164px;
+				height: 46px;
+				object-fit: cover;
+				position: absolute;
+				left: 4px;
+				top: 102px;
+			}
+			
+			#Ellipse42_0001 {
+				width: 4px;
+				height: 4px;
+				box-shadow: -4px -4px 18px  rgb(18, 18, 18),4px 4px 18px  black;
+				background: linear-gradient(-45deg, black, black);
+				border-radius: 4px / 4px;
+				position: absolute;
+				left: 96px;
+				top: 100px;
+			}
+			
+			#Union {
+				width: 45px;
+				height: 20px;
+				object-fit: cover;
+				position: absolute;
+				left: 76px;
+				top: 75px;
+			}
+			
+			#_12000 {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 7px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 59px;
+				min-height: 11px;
+				position: absolute;
+				left: 80px;
+				top: 78px;
+				height: 11px;
+			}
+			
+			#Income {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 25px;
+				min-height: 10px;
+				position: absolute;
+				left: 19px;
+				top: 55px;
+				height: 10px;
+			}
+			
+			#Exspense {
+				color: rgb(74, 74, 74);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 30px;
+				min-height: 10px;
+				position: absolute;
+				left: 89px;
+				top: 55px;
+				height: 10px;
+			}
+			
+			#_84500 {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 57px;
+				min-height: 10px;
+				position: absolute;
+				left: 45px;
+				top: 55px;
+				height: 10px;
+			}
+			
+			#_12500 {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 53px;
+				min-height: 10px;
+				position: absolute;
+				left: 121px;
+				top: 55px;
+				height: 10px;
+			}
+			
+			#Rectangle187 {
+				width: 24px;
+				height: 1px;
+				background-color: rgb(254, 210, 21);
+				position: absolute;
+				left: 19px;
+				top: 69px;
+			}
+			
+			#WelcomeToMyFutureOfOnlinePossibilities {
+				color: rgb(254, 254, 254);
+				text-overflow: ellipsis;
+				font-size: 50px;
+				font-family: Poppins, sans-serif;
+				font-weight: 800;
+				line-height: 200%;
+				text-align: left;
+				position: absolute;
+				left: 41px;
+				top: 101px;
+			}
+			
+			#NaN_0002 {
+				width: 162px;
+				height: 197px;
+				overflow: hidden;
+				background: linear-gradient(-45deg, black, rgb(36, 36, 36));
+				border: solid 1px undefined;
+				border-radius: 26px;
+				position: absolute;
+				box-shadow: -26px -26px 53px  rgba(23, 23, 23, 0.5),9px 9px 53px  rgba(0, 0, 0, 0.4);
+				left: 493px;
+				top: 263px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Group53 {
+				width: 29px;
+				height: 11px;
+				position: absolute;
+				left: 550px;
+				top: 426px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Food {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 18px;
+				min-height: 11px;
+				position: absolute;
+				left: 11px;
+				top: 0px;
+				height: 11px;
+			}
+			
+			#Rectangle201 {
+				width: 7px;
+				height: 7px;
+				box-shadow: -2px -2px 4px  rgba(50, 50, 50, 0.25),2px 2px 4px  rgba(4, 4, 4, 0.6);
+				background-color: rgb(15, 15, 15);
+				border-radius: 1px;
+				position: absolute;
+				left: -0px;
+				top: 2px;
+			}
+			
+			#Group51 {
+				width: 29px;
+				height: 11px;
+				position: absolute;
+				left: 540px;
+				top: 407px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Sport {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 18px;
+				min-height: 11px;
+				position: absolute;
+				left: 11px;
+				top: -0px;
+				height: 11px;
+			}
+			
+			#Rectangle201_0001 {
+				width: 7px;
+				height: 7px;
+				box-shadow: -2px -2px 4px  rgba(50, 50, 50, 0.25),2px 2px 4px  rgba(4, 4, 4, 0.6);
+				background-color: rgb(254, 210, 21);
+				border-radius: 1px;
+				position: absolute;
+				left: -0px;
+				top: 2px;
+			}
+			
+			#Group50 {
+				width: 37px;
+				height: 10px;
+				position: absolute;
+				left: 588px;
+				top: 396px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Transfer {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 26px;
+				min-height: 10px;
+				position: absolute;
+				left: 11px;
+				top: 0px;
+				height: 10px;
+			}
+			
+			#Rectangle202 {
+				width: 7px;
+				height: 7px;
+				box-shadow: -2px -2px 4px  rgba(50, 50, 50, 0.25),2px 2px 4px  rgba(4, 4, 4, 0.31);
+				background-color: rgb(16, 16, 16);
+				border-radius: 1px;
+				position: absolute;
+				left: -0px;
+				top: 1px;
+			}
+			
+			#Group54 {
+				width: 41px;
+				height: 10px;
+				position: absolute;
+				left: 593px;
+				top: 415px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Shopping {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 30px;
+				min-height: 10px;
+				position: absolute;
+				left: 11px;
+				top: 0px;
+				height: 10px;
+			}
+			
+			#Rectangle202_0001 {
+				width: 7px;
+				height: 7px;
+				box-shadow: -2px -2px 4px  rgba(50, 50, 50, 0.25),2px 2px 4px  rgba(4, 4, 4, 0.31);
+				background-color: rgb(39, 39, 39);
+				border-radius: 1px;
+				position: absolute;
+				left: 0px;
+				top: 1px;
+			}
+			
+			#Group52 {
+				width: 30px;
+				height: 10px;
+				position: absolute;
+				left: 642px;
+				top: 381px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Travel {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 19px;
+				min-height: 10px;
+				position: absolute;
+				left: 11px;
+				top: -0px;
+				height: 10px;
+			}
+			
+			#Rectangle202_0002 {
+				width: 7px;
+				height: 7px;
+				box-shadow: -2px -2px 4px  rgba(50, 50, 50, 0.25),2px 2px 4px  rgba(4, 4, 4, 0.31);
+				background-color: rgb(8, 8, 8);
+				border-radius: 1px;
+				position: absolute;
+				left: 0px;
+				top: 1px;
+			}
+			
+			#Group55 {
+				width: 30px;
+				height: 11px;
+				position: absolute;
+				left: 647px;
+				top: 400px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Car {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 6px;
+				font-family: Poppins, sans-serif;
+				font-weight: 400;
+				text-align: center;
+				width: 19px;
+				min-height: 11px;
+				position: absolute;
+				left: 11px;
+				top: -0px;
+				height: 11px;
+			}
+			
+			#Rectangle202_0003 {
+				width: 7px;
+				height: 7px;
+				box-shadow: -2px -2px 4px  rgba(50, 50, 50, 0.25),2px 2px 4px  rgba(4, 4, 4, 0.31);
+				background-color: rgb(48, 48, 48);
+				border-radius: 1px;
+				position: absolute;
+				left: -0px;
+				top: 2px;
+			}
+			
+			#Ellipse45 {
+				width: 47px;
+				height: 26px;
+				object-fit: cover;
+				position: absolute;
+				left: 526px;
+				top: 276px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Ellipse50 {
+				width: 7px;
+				height: 26px;
+				object-fit: cover;
+				position: absolute;
+				left: 526px;
+				top: 305px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Ellipse46 {
+				width: 34px;
+				height: 50px;
+				object-fit: cover;
+				position: absolute;
+				left: 533px;
+				top: 331px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Ellipse47 {
+				width: 70px;
+				height: 33px;
+				object-fit: cover;
+				position: absolute;
+				left: 573px;
+				top: 343px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Ellipse48 {
+				width: 15px;
+				height: 58px;
+				object-fit: cover;
+				position: absolute;
+				left: 614px;
+				top: 270px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Ellipse51_0002 {
+				width: 46px;
+				height: 36px;
+				background: radial-gradient(rgb(254, 207, 3), rgb(35, 35, 35));
+				border-radius: 46px / 36px;
+				position: absolute;
+				left: 568px;
+				top: 255px;
+				filter: blur(26.43px);
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#Ellipse49 {
+				width: 36px;
+				height: 16px;
+				object-fit: cover;
+				position: absolute;
+				left: 573px;
+				top: 264px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+			}
+			
+			#_133300 {
+				color: rgb(30, 30, 30);
+				text-overflow: ellipsis;
+				font-size: 16px;
+				font-family: Poppins, sans-serif;
+				font-weight: 500;
+				text-align: center;
+				width: 94px;
+				min-height: 19px;
+				position: absolute;
+				left: 548px;
+				top: 312px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+				height: 19px;
+			}
+			
+			#Exspense_0001 {
+				color: rgb(74, 74, 74);
+				text-overflow: ellipsis;
+				font-size: 7px;
+				font-family: Poppins, sans-serif;
+				font-weight: 300;
+				text-align: center;
+				width: 33px;
+				min-height: 11px;
+				position: absolute;
+				left: 572px;
+				top: 326px;
+				transform: rotate(-15deg);
+				transform-origin: top left;
+				height: 11px;
+			}
+			
+	
+			
+			#Group1 {
+				width: 313px;
+				height: 24px;
+				position: absolute;
+				left: 617px;
+				top: 17px;
+			}
+			
+			#About {
+				color: rgb(138, 138, 138);
+				text-overflow: ellipsis;
+				font-size: 16px;
+				font-family: Poppins, sans-serif;
+				font-weight: 500;
+				text-align: left;
+				position: absolute;
+				left: 109px;
+				top: 0px;
+			}
+			
+			#Home {
+				color: rgb(254, 254, 254);
+				text-overflow: ellipsis;
+				font-size: 16px;
+				font-family: Poppins, sans-serif;
+				font-weight: 500;
+				text-align: left;
+				position: absolute;
+				left: 0px;
+				top: 0px;
+			}
+			
+			#ContactMe {
+				color: rgb(138, 138, 138);
+				text-overflow: ellipsis;
+				font-size: 16px;
+				font-family: Poppins, sans-serif;
+				font-weight: 500;
+				text-align: left;
+				position: absolute;
+				left: 219px;
+				top: 0px;
+			}
+			
+			#Group9 {
+				width: 147px;
+				height: 33px;
+				position: absolute;
+				left: 32px;
+				top: 12px;
+			}
+			
+			#Ellipse84 {
+				width: 31px;
+				height: 31px;
+				background-color: rgb(254, 254, 254);
+				border-radius: 31px / 31px;
+				position: absolute;
+				left: 0px;
+				top: 2px;
+			}
+			
+			#Ellipse85 {
+				width: 31px;
+				height: 31px;
+				border-radius: 31px / 31px;
+				position: absolute;
+				left: 5px;
+				top: 0px;
+			}
+			
+			#MarcGozun {
+				color: rgb(254, 254, 254);
+				text-overflow: ellipsis;
+				font-size: 16px;
+				font-family: Poppins, sans-serif;
+				font-weight: 800;
+				line-height: 180%;
+				text-align: left;
+				position: absolute;
+				left: 48px;
+				top: 4px;
+			}
